@@ -1,1 +1,1 @@
-# Company-s-Sales-Visualization-using-Power-BI
+# Company-Sales-Visualization-using-Power-BI
